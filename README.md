@@ -3,9 +3,13 @@ This is a little macro I made because I wasn't satisfied with the other public m
 
 ## Features
 1 - Auto Attack
+
 2 - Auto Climb
+
 3 - Auto Dodge
+
 4 - Frigg Multislash
+
 5 - Quick Interactive Map Toggle
 
 and more to come if I can be bothered.
